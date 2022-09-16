@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GitGiova
+- 👋 Hi, I’m Giovanni (@GitGiova)
 - 👀 I’m interested in Data Science, Statistics & Machine Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently focusing on Deep Learning
+- 💞️ I’m looking to collaborate on Analytics projects
+- 📫 giovanni.gatti01@gmail.com
 
 <!---
 GitGiova/GitGiova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
