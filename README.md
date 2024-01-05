@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Giovanni (@GitGiova)
-- 👀 I’m interested in Data Science, Statistics & Machine Learning
-- 🌱 I’m currently focusing on Deep Learning
-- 💞️ I’m looking to collaborate on Analytics projects
+- 👋 Hi, I’m Giovanni (@giovanni-gatti)
+- 👀 I’m interested in Data Science, Machine Learning & Artificial Intelligence
+- 🌱 I’m currently focusing Algorithms and Combinatorial Optimization
+- 💞️ I’m looking to collaborate on ML/AI projects!
 - 📫 giovanni.gatti01@gmail.com
 
 <!---
