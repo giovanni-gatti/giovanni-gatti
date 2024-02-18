@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Giovanni (@giovanni-gatti)
 - 👀 I’m interested in Data Science, Machine Learning & Artificial Intelligence
-- 🌱 I’m currently focusing Algorithms and Combinatorial Optimization
+- 🌱 I’m currently focusing on Reinforcement Learning and NLP
 - 💞️ I’m looking to collaborate on ML/AI projects!
 - 📫 giovanni.gatti01@gmail.com
 
