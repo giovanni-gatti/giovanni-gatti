@@ -7,7 +7,7 @@ During the day, I like to work on projects related to LLMs, Deep Learning, and M
 During the night (and very early mornings too), I love to run.
 
 Feel free to drop me an email at:\
-giovanni.gatti@studbocconi.it
+giovanni [dot] gatti [at] studbocconi [dot] it
 
 **Giovanni**\
 🏄🏻‍♂️⛹🏻‍♂️🤸🏻‍♂️🏊🏻‍♂️🏃🏻‍♂️
