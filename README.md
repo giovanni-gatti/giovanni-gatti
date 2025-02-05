@@ -2,7 +2,7 @@
 
 My name is **Giovanni Gatti** and I live in Milan, Italy.\
 I am currently pursuing the MSc in Artificial Intelligence @ Bocconi University.\
-On top of that, I am working full-time as an AI Engineer @ Target Reply, and I am a Visiting Research Student in the Department of Computing Sciences @ Bocconi.\
+I am a Visiting Research Student in the Computational Biology Lab in the Department of Computing Sciences @ Bocconi, and I have experience working as an AI Engineer.\
 During the day, I like to work on projects related to LLMs, Deep Learning, and Machine Learning in general.\
 During the night (and very early mornings too), I love to run.
 
