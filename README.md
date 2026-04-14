@@ -1,15 +1,4 @@
-**Welcome to my GitHub profile!**
-
-My name is **Giovanni Gatti** and I am currently based in Berlin, Germany, where I am working as a Software Engineer.\
-I am pursuing the MSc in Artificial Intelligence @ Bocconi University, and I am also a Visiting Research Student in the Computational Biology Lab in the Department of Computing Sciences @ Bocconi.\
-During the day, I like to work on projects at the intersection of Optimization, Software Engineering and Machine Learning.\
-During the nights (and very early mornings too), I love to run.
-
-Feel free to drop me an email at:\
-giovanni [dot] gatti [at] studbocconi [dot] it
-
-**Giovanni**\
-🏄🏻‍♂️⛹🏻‍♂️🤸🏻‍♂️🏊🏻‍♂️🏃🏻‍♂️
+Currently based in Paris, working as Applied AI Engineer.
 
 <!---
 GitGiova/GitGiova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
