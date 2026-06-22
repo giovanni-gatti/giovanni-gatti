@@ -1,4 +1,5 @@
-Currently based in Paris, working as Applied AI Engineer.
+Currently based in Paris, working as Applied AI Engineer @ Mistral AI.
+Previously Software Development Engineer @ AWS S3.
 
 <!---
 GitGiova/GitGiova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
